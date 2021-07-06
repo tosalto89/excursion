@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: verdana;
+}
+
+h1{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.Download{
+  color: aquamarine;
+  font-size: 16px;
+}
+#Excursion{
+  padding-bottom: 50px;
+}
+#Travel{
+  padding-bottom: 30px;
+}
+
+footer{
+  text-align: right;
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+}
+embed ::-webkit-media-controls-overlay-play-button{
+  display: none;
+}
